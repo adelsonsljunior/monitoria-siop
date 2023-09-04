@@ -3,6 +3,14 @@ Repositório dedicado para a monitoria da disciplina de Sistemas Operacionais da
 
 <br>
 
+## Sumário
+
+### 
+
+[01 - Introdução a CLI](./01%20-%20Introducao%20a%20CLI/README.md)
+
+<br>
+
 ## Usar o  Gitpod
 
 <br>
