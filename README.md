@@ -5,9 +5,10 @@ Repositório dedicado para a monitoria da disciplina de Sistemas Operacionais da
 
 ## Sumário
 
-### 
+> Veja as resoluçẽs aompahando os slides
 
 [01 - Introdução a CLI](./01%20-%20Introducao%20a%20CLI/README.md)
+[02 - Comandos de Ajuda](./02%20-%20Comandos%20de%20Ajuda/README.md)
 
 <br>
 
