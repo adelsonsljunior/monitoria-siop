@@ -7,9 +7,9 @@ Repositório dedicado para a monitoria da disciplina de Sistemas Operacionais da
 
 > Veja as resoluçẽs acompahando os slides
 
-+ [01 - Introdução a CLI](./01%20-%20Introducao%20a%20CLI/README.md)
-+ [02 - Comandos de Ajuda](./02%20-%20Comandos%20de%20Ajuda/README.md)
-+ [03 - Manipulando arquivos e diretorios](./03%20-%20Manipulando%20arquivos%20e%20diretorios/README.md)
++ [01 - Introdução a CLI](01-introducao-a-cli/README.md)
++ [02 - Comandos de Ajuda](02-comandos-de-ajuda/README.md)
++ [03 - Manipulando arquivos e diretorios](03-manipulando-arquivos-e-diretorios/README.md)
 
 <br>
 
