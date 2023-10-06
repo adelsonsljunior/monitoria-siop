@@ -10,6 +10,7 @@ Repositório dedicado para a monitoria da disciplina de Sistemas Operacionais da
 + [01 - Introdução a CLI](01-introducao-a-cli/README.md)
 + [02 - Comandos de Ajuda](02-comandos-de-ajuda/README.md)
 + [03 - Manipulando arquivos e diretorios](03-manipulando-arquivos-e-diretorios/README.md)
++ [04 - Arquivamento e compressão](04-arquivamento-e-compressão/README.md)
 
 <br>
 
