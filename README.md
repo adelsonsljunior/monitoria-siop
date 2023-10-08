@@ -11,6 +11,7 @@ Repositório dedicado para a monitoria da disciplina de Sistemas Operacionais da
 + [02 - Comandos de Ajuda](02-comandos-de-ajuda/README.md)
 + [03 - Manipulando arquivos e diretorios](03-manipulando-arquivos-e-diretorios/README.md)
 + [04 - Arquivamento e compressão](04-arquivamento-e-compressão/README.md)
++ [05 - Edição e manipulação de arquivos – Pipes e Redirecionamento](05-edicao-e-manipulacao-de-arquivos–pipes-e-eedirecionamento/README.md)
 
 <br>
 
